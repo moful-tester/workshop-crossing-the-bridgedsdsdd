@@ -11,7 +11,7 @@
 > A cada etapa, um conjunto de _workflows_ guia sua jornada — desde a preparação do Codespace até a comparação de respostas entre diferentes modelos e a conclusão da história.
 
 > [!NOTE]
-> Estado atual: <!--WORKSHOP_STATUS-->🌉 Preparando os sensores da ponte para a travessia inicial. Confira a issue do workshop para iniciar!<!--END_WORKSHOP_STATUS-->
+> Estado atual: <!--WORKSHOP_STATUS-->🚀 Sinal do Codespace recebido! Converse com o primeiro oráculo diretamente pela issue.<!--END_WORKSHOP_STATUS-->
 
 ---
 
@@ -50,7 +50,7 @@ Todo o fluxo é baseado no repositório de templates [lufomatics/reusable-worksh
 4. Clique no botão **`🚀Start Workshop`** abaixo, que irá te redirecionar para uma GitHub Issue que servirá como seu guia personalizado durante o workshop, acompanhando seu progresso e fornecendo instruções a cada passo concluído.
 
    <a id="start-workshop" href="https://github.com/moful-tester/workshop-crossing-the-bridgedsdsdd/issues/1">
-      <img src="https://img.shields.io/badge/🚀_Start_Workshop-008000" height="25pt"/>
+      <img src="https://img.shields.io/badge/🚀_Continue_Workshop-008000" height="25pt"/>
    </a>
 
 > [!TIP]
